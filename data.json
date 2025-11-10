@@ -1,10 +1,60 @@
 {
-  "rus": {
-    "text": {
-      "section1": {
-        "intro": "Привет! Я Захар, начинающий&nbsp;frontend&nbsp;разработчик",
-        "geo": "📍🌍Калининград, Россия"
-      }
+    "rus": {
+        "section1": {
+            "nav-intro": "Приветствие",
+            "nav-about": "Обо мне",
+            "nav-projects": "Проекты",
+            "intro": "Привет! Я Захар, начинающий&nbsp;frontend&nbsp;разработчик"
+        },
+        "section2": {
+            "skills-title": "Мои технологии",
+            "html-skills": "<strong>HTML5 / CSS3</strong> — Семантическая верстка, адаптивный дизайн (Flexbox, Grid)",
+            "js-skills": "<strong>JavaScript</strong> — Работа с DOM, событиями, асинхронными запросами (Fetch API)",
+            "python-skills": "<strong>Python</strong> — Опыт работы с Flask, FastAPI, Telebot, PyQt5, Pygame",
+            "golang-skills": "<strong>Golang</strong> — Основы языка",
+            "other-title": "Другое",
+            "languages-skills": "<strong>Языки</strong> — Русский, Английский",
+            "about-text-1": "Привет! Меня зовут Захар, я студент университетского колледжа БФУ им. Канта города Калининград.",
+            "about-text-2": "Сейчас я начинающий фронтенд-разработчик, и продолжаю развиваться в этом направлении. Я всегда готов к новым задачам, знакомствам и знаниям!"
+        },
+        "section3": {
+            "projects-title": "Мои проекты",
+            "project1-title": "Моё портфолио",
+            "project1-description": "Проект выполнен с нуля по моей собственной инициативе",
+            "project1-feature1": "Адаптивная вёрстка",
+            "project1-feature2": "HTML - Семантичная вёрстка",
+            "project1-feature3": "CSS - media-запросы",
+            "project1-feature4": "JavaScript",
+            "project-github-link": "GitHub"
+        }
+    },
+  "eng": {
+        "section1": {
+            "nav-intro": "Introduction",
+            "nav-about": "About me",
+            "nav-projects": "Projects",
+            "intro": "Hi! I'm Zakhar, beginner&nbsp;frontend&nbsp;developer"
+        },
+        "section2": {
+            "skills-title": "My stack",
+            "html-skills": "<strong>HTML5 / CSS3</strong> — semantic, adaptive design (Flexbox, Grid)",
+            "js-skills": "<strong>JavaScript</strong> — work with DOM, events, async requests (Fetch API)",
+            "python-skills": "<strong>Python</strong> — experience with Flask, FastAPI, Telebot, PyQt5, Pygame",
+            "golang-skills": "<strong>Golang</strong> — basics",
+            "other-title": "Другое",
+            "languages-skills": "<strong>Languages</strong> — Russian, English",
+            "about-text-1": "Hi! I'm Zakhar, I'm student in the BFU college in Kaliningrad.",
+            "about-text-2": "Now I'm beginner frontend developer, and I constantly expanding my knowledge. I always ready for new tasks, meets and experience!"
+        },
+        "section3": {
+            "projects-title": "My projects",
+            "project1-title": "My portfolio",
+            "project1-description": "Fully my iniciative project",
+            "project1-feature1": "Adaptive",
+            "project1-feature2": "HTML - semantic",
+            "project1-feature3": "CSS - media-quieries",
+            "project1-feature4": "JavaScript",
+            "project-github-link": "GitHub"
+        }
     }
-  }
 }
