@@ -13,8 +13,6 @@ body {
 
 }
 
-
-
 :root {
     --bg-primary: #0a0a0a;
     --bg-secondary: #111111;
@@ -28,9 +26,6 @@ body {
     --shadow-medium: rgba(0, 0, 0, 0.15);
     --shadow-dark: rgba(0, 0, 0, 0.3);
 }
-
-
-
 
 .navbar {
     position: fixed;
